@@ -1,5 +1,3 @@
-// @ts-check
-
 import generate from '../index.js';
 
 test('generate', () => {

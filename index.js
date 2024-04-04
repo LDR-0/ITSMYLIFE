@@ -1,5 +1,3 @@
-// @ts-check
-
 import { mkdir, mkfile } from '@hexlet/immutable-fs-trees';
 
 const generate = () => {
